@@ -1,0 +1,31 @@
+{
+  "name": "recursize-select",
+  "version": "1.0.0",
+  "description": "Recursively select",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeeva111/recursive-select.git"
+  },
+  "keywords": [
+    "Recursive",
+    "Select",
+    "Recursively",
+    "Select",
+    "React",
+    "recursive",
+    "select",
+    "Javascript",
+    "recursive",
+    "select"
+  ],
+  "author": "Jeeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeeva111/recursive-select/issues"
+  },
+  "homepage": "https://github.com/Jeeva111/recursive-select#readme"
+}
